@@ -2,6 +2,8 @@
 
 ## Ruby on Rails 2019.08.02
 
+这一次，把helloworld修改成goodbye了
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
