@@ -4,13 +4,7 @@
 
 这一次，把helloworld修改成goodbye了
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
+This README would normally document whatever step暗示法卡萨发掘了湖啊设计开发阿萨法
 * System dependencies
 
 * Configuration
